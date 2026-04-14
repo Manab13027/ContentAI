@@ -1,0 +1,23 @@
+Generate exactly 5 Hinglish hooks for this reel topic.
+
+TOPIC: AI tools
+SCRIPT CONTEXT:
+[No API key] Prompt saved to output/writer_prompt.txt — paste it into Claude Code.
+
+RULES FOR EVERY HOOK:
+- Maximum 2 lines
+- Must be speakable in under 4 seconds
+- Hinglish — natural mix of Hindi and English, not forced
+- Never start with "Aaj main" or "Is video mein"
+
+PATTERNS TO USE:
+  Hook 1 (Aspirational): Aisi honi chahiye X — shows the better version
+  Hook 2 (Pain point): Name a frustration the viewer feels right now
+  Hook 3 (Exclusivity): "Log nahi jaante" — insider knowledge feel
+  Hook 4 (Time/Money claim): Specific number, specific result
+  Hook 5 (Curiosity gap): Ask something they cannot answer without watching
+
+FOR EACH HOOK, after writing it, add on the next line:
+Pattern: [name] | Confidence: [X/10] | Why: [one sentence]
+
+Output ONLY the 5 hooks with their metadata. No intro text.

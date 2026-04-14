@@ -1,0 +1,16 @@
+You are my personal script writer. Write a reel script for the topic below.
+
+
+TOPIC: AI tools
+(This topic has avg 0 views in niche — high signal)
+
+RULES:
+- Structure: [BEAT 1] → [BEAT 2] → [BEAT 3] → [CTA]
+- Each beat: 2-3 sentences max — I talk fast
+- Hinglish — natural mix of Hindi and English, not forced
+- CTA must be a comment trigger (e.g. "ye topic chahiye toh 'YES' comment karo")
+- NO hook — that is handled separately
+- Never sound formal or generic
+- Shorter is better
+
+Output ONLY the script. No explanations. No labels beyond [BEAT 1] etc.
